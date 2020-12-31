@@ -26,7 +26,7 @@ The overall PyBer fare summary is presented in the image below:
 
 ![Pyber_fare_summary.png](https://github.com/TamaraGR/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
-
+This line graphic is depicting the fares for the months of January through May of 2019, and it looks at the urban, suburban and rural cities' fare data. Pretty much each week the urban cities had higher fares with suburban and rural following. An interesting spike in fares is demonstrated in the second part of February, where we see parallel spike for every city category. 
 
 ## Recommendations Summary 
 
