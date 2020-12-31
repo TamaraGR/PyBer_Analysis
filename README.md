@@ -12,6 +12,22 @@ This is an analysis of a car rides company/mobile application PyBer's performanc
 
 ## Analysis
 
+Below you are presented with the descriptive summary of the urban, suburban and rural rides, drivers, fares, average fare per ride and average fare per driver. 
+
+![PyBer_summary_df.jpg](https://github.com/TamaraGR/PyBer_Analysis/blob/main/analysis/pyber_summary_df.jpg)
+
+Urban rides constitue 68% of all rides, while suburban take up to 26% and rural 5%. The number of urban rides is 2.6 times higher than the number of suburban and 13 times higher than the number of rural rides. Urban drivers constitue 80% of all drivers, suburban drivers are at 16% and rural at 2.6%. Urban city drivers count is 5 times higher than suburban cities' and 31 times higher than rural count. 
+
+In the suburban and rural cities during the described period each driver took more than one ride. In the urban cities some drivers didn't take rides at all, as their number is higher than the total number of rides. Hence we could assume that abundance of available drivers results in lower fares (as we can see from urban fares versus rural and suburban fares), however, we can't make that assumption without knowing the time and the distance spent per each ride. 
+
+Urban cities made 62.7% of the fares, while suburban made 30.5% and rural made 6.8%. Average fare per ride is the lowest for the urban cities, and for the rural cities it is the highest. Average urban fares per driver are lower by 58% than suburban and 70% than rural. 
+
+The overall PyBer fare summary is presented in the image below:
+
+![Pyber_fare_summary.png](https://github.com/TamaraGR/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
+
+
 ## Recommendations Summary 
 
 Some of analysis additional recommendations include the following:
